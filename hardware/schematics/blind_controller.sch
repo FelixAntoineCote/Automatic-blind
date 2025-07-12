@@ -1,0 +1,1 @@
+// Placeholder schematic file for ESP32 + A4988

@@ -1,0 +1,20 @@
+# Arduino build folders
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.pio
+*.core
+
+# IDE and OS files
+.vscode/
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Other temp files
+*.swp
+*.swo
