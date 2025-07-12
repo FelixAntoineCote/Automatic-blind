@@ -3,13 +3,13 @@
 ## 📌 PHASE 1: Planning and Architecture
 
 1. **Define System Requirements**
-   - [ ] Number of blinds or axes
-   - [ ] Type of control (manual button, app, schedule, light sensor, etc.)
-   - [ ] Power source: battery or wall adapter
-   - [ ] Limit switch or position feedback?
+   - [x] Number of blinds or axes: 1
+   - [x] Type of control: Google Home
+   - [x] Power source: Wall adapter
+   - [x] Limit switch or position feedback?: Stepping of stepper motor should be enough
 
 2. **Create Block Diagram**
-   - [ ] High-level system diagram (ESP32, A4988, motor, sensors, power, etc.)
+   - [x] High-level system diagram (ESP32, A4988, motor, sensors, power, etc.)
 
 ---
 
